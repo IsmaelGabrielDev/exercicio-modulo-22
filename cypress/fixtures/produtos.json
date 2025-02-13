@@ -1,0 +1,27 @@
+[
+    {
+        "nomeProduto": "Ingrid Running Jacket",
+        "tamanho": "M",
+        "cor": "Orange",
+        "quantidade": 2
+    },
+    {
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho": "L",
+        "cor": "Red",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Geo Insulated Jogging Pant",
+        "tamanho": "36",
+        "cor": "Green",
+        "quantidade": 5
+    },
+    {
+        "nomeProduto": "Vulcan Weightlifting Tank",
+        "tamanho": "XL",
+        "cor": "Black",
+        "quantidade": 1 
+    }
+
+]
