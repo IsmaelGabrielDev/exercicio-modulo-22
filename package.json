@@ -1,0 +1,14 @@
+{
+  "name": "exercicio-modulo-22",
+  "version": "1.0.0",
+  "description": "Realizando o exercicio do modulo 22",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "ismael",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.17.0"
+  }
+}

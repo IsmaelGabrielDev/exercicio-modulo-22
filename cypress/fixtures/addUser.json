@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "message": "User added",
+    "data": {
+        "_id": "67ec610a36e994dfd8ba743f",
+        "phone": "11999999999",
+        "role": "user",
+        "profile": {
+            "firstName": "Ismael",
+            "lastName": "Gabriel"
+        },
+        "email": "ismael889@ebac.art.br"
+        
+    }
+}
