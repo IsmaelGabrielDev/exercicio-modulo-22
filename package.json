@@ -1,7 +1,7 @@
 {
-  "name": "exercicio-modulo-22",
+  "name": "exercicio-modulo-23-Parte02",
   "version": "1.0.0",
-  "description": "Realizando o exercicio do modulo 22",
+  "description": "Realizando o exercicio do modulo 23",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress run"
